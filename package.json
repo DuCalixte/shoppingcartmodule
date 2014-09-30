@@ -2,17 +2,10 @@
   "name": "Shopping Cart - Module",
   "description": "A Shopping Cart module using node-js for MAC products",
   "version": "0.0.0",
+  "main": "static_server.js",
   "authors": [
     "Stanley Calixte <DuCalixte@gmail.com>"
   ],
-  "keywords": [
-    "node",
-    "heroku",
-    "express",
-    "shopping cart",
-    "tutorials"
-  ],
-  "license": "MIT",
   "dependencies": {
     "bower": "1.3.x"
   },
@@ -29,4 +22,12 @@
   "scripts": {
     "start": "node static_server.js"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "shopping cart",
+    "tutorials"
+  ],
+  "license": "MIT",
 }
