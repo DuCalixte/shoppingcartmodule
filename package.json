@@ -17,9 +17,7 @@
     "url": "https://github.com/DuCalixte/shoppingcartmodule.git"
   },
   "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
-  },
-  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install",
     "start": "node static_server.js"
   },
   "keywords": [
@@ -29,5 +27,5 @@
     "shopping cart",
     "tutorials"
   ],
-  "license": "MIT",
+  "license": "MIT"
 }
