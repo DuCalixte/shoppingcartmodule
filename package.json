@@ -25,7 +25,7 @@
   },
   "scripts": {
     "postinstall": "./node_modules/bower/bin/bower install"
-  }
+  },
   "scripts": {
     "start": "node static_server.js"
   },
