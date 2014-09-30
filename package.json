@@ -1,5 +1,5 @@
 {
-  "name": "Shopping Cart Module",
+  "name": "ShoppingCartModule",
   "description": "A Shopping Cart module using node-js for MAC products",
   "version": "0.0.0",
   "main": "static_server.js",
